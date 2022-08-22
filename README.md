@@ -17,37 +17,17 @@ Everyday learner!
 - 💬 Ping me about **Python**, **Machine Learning**, **MLOps**, **Digital Transformation**, and **PM**.
 - 📫 Reach me: [Linkedin](https://www.linkedin.com/in/bhagabat-prasad/)
 
-</br>
 
 ## 🌏 Doing my bit ##
 
 Started **Sambhav Utkal Foundation** with a few talented and like minded people in my native to make grass root level changes with real impact. We opened an Open Fitness Center, an Open Learning Center, and conducted tree plantation programs.
 
-</br>
 
 ## 👨🏻‍💻 Skillset ##
 
-<img height="30" src="imgs/python-original.svg" alt="python">
-<img height="30" src="imgs/r-programming-language-icon.svg" alt="R">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript">
-<img height="30" src="imgs/pytest-original.svg" alt="pytest">
-<img height="30" src="imgs/django.svg" alt="Django">
-<img height="30" src="imgs/docker-original.svg" alt="Docker">
-<img height="30" src="imgs/linux-original.svg" alt="linux">
-<img height="30" src="imgs/git-original.svg" alt="git">
-<img height="30" src="imgs/machine-learning.svg" alt="machinelearning">
-<img height="30" src="imgs/ai-setting.svg" alt="artificialintelligence">
-<img height="30" src="imgs/amazon-aws.svg" alt="AWS">
-<img height="30" src="imgs/azure.svg" alt="Azure">
-<img height="30" src="imgs/google-cloud.svg" alt="GCP">
-<img height="30" src="imgs/project-management-icon.svg" alt="projectmanagement">
-<img height="30" src="imgs/product-development-icon.svg" alt="productmanagement">
-<img height="30" src="imgs/jira.svg" alt="jira">
-<img height="30" src="imgs/visual-studio-code-icon.svg" alt="vscode">
-<img height="30" src="imgs/sap-icon.svg" alt="sap">
+<img height="30" src="imgs/python-original.svg" alt="python"> <img height="30" src="imgs/r-programming-language-icon.svg" alt="R">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"> <img height="30" src="imgs/pytest-original.svg" alt="pytest"> <img height="30" src="imgs/django.svg" alt="Django"> <img height="30" src="imgs/docker-original.svg" alt="Docker"> <img height="30" src="imgs/linux-original.svg" alt="linux"> <img height="30" src="imgs/git-original.svg" alt="git"> <img height="30" src="imgs/machine-learning.svg" alt="machinelearning"> <img height="30" src="imgs/ai-setting.svg" alt="artificialintelligence"> <img height="30" src="imgs/amazon-aws.svg" alt="AWS"> <img height="30" src="imgs/azure.svg" alt="Azure"> <img height="30" src="imgs/google-cloud.svg" alt="GCP"> <img height="30" src="imgs/project-management-icon.svg" alt="projectmanagement"> <img height="30" src="imgs/product-development-icon.svg" alt="productmanagement"> <img height="30" src="imgs/jira.svg" alt="jira"> <img height="30" src="imgs/visual-studio-code-icon.svg" alt="vscode"> <img height="30" src="imgs/sap-icon.svg" alt="sap">
 
-
-</br>
 
 ## ⚡ Github Stats ##
 
@@ -88,8 +68,6 @@ Started **Sambhav Utkal Foundation** with a few talented and like minded people 
 ### Show some ❤️ by starring some of the repositories!
 </div>
 
-
-</br>
 
 ## 📫 Connect With Me
 
