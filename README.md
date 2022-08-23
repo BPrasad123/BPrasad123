@@ -14,7 +14,7 @@ Everyday learner!
 - 🏢 I'm currently working as a Data Scientist and Intelligent Automation Architect in **SAP**
 - 👨🏻‍💻 Past roles include Techno-Functional Financial Consultant, Legacy (mainframe) to Web Modernization Specialist, AWS Solution Architect, Six Sigma Master Black Belt, and Technical Project Manager.
 - 🤝 I'm mostly active within the **Python Community**, **AI/ML Community**, **Product/Program Management Community**.
-- 💬 Ping me about **Python**, **Machine Learning**, **MLOps**, **Digital Transformation**, and **PM**.
+- 💬 Ping me about **Python**, **Machine Learning**, **MLOps**, **Digital Transformation**, **PM**, and of course **Parenting** 👨‍👩‍👧😄.
 - 📫 Reach me: [Linkedin](https://www.linkedin.com/in/bhagabat-prasad/)
 
 
