@@ -6,13 +6,13 @@ Everyday learner!
 - 🌱 I'm learning MLOps in depth from [The School of AI](https://theschoolof.ai/#details4).
 - 💪 Specializing in Data Science on AWS.
 - ✨ Starting on Vision Language Modeling.
-- 🧑‍🎓 Pursuing Post Graduate level of Product Management Couse from Duke and UpGrad.
+- 🧑‍🎓 Pursuing Post Graduate in Product Management with AI Specialization from Duke.
 - 📝 Sharing my learnings.
 
 #### Bio
 
 - 🏢 I'm currently working as a Data Scientist and Intelligent Automation Architect in **SAP**
-- 👨🏻‍💻 Past roles include Techno-Functional Financial Consultant, Legacy (mainframe) to Web Modernization Specialist, AWS Solution Architect, Six Sigma Master Black Belt, and Technical Project Manager.
+- 👨🏻‍💻 Past roles include Six Sigma Master Black Belt, AWS Solution Architect, Technical Project Manager, Techno-Functional Financial Consultant, and Legacy (mainframe) to Web Modernization Specialist.
 - 🤝 I'm mostly active within the **Python Community**, **AI/ML Community**, **Product/Program Management Community**.
 - 💬 Ping me about **Python**, **Machine Learning**, **MLOps**, **Digital Transformation**, **PM**, and of course **Parenting** 👨‍👩‍👧😄.
 - 📫 Reach me: [Linkedin](https://www.linkedin.com/in/bhagabat-prasad/)
@@ -20,7 +20,7 @@ Everyday learner!
 
 ## 🌏 Doing my bit ##
 
-Started **Sambhav Utkal Foundation** with a few talented and like minded people in my native to make grass root level changes with real impact. We opened an Open Fitness Center, an Open Learning Center, and conducted tree plantation programs.
+Started **Sambhav Utkal Foundation** with some talented and like minded people in my native to make grass root level changes with real impact. We opened an Open Fitness Center, an Open Learning Center, an Art Center, and conducted tree plantation programs. With this we had an opporunity impact lives of 50+ people and the journey continues.
 
 
 ## 👨🏻‍💻 Skillset ##
